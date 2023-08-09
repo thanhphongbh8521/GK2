@@ -1,0 +1,4 @@
+#Thu Aug 03 06:58:24 ICT 2023
+base.0=D\:\\DATA\\Androi\\GK\\Animated-Travel-App-ui-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
